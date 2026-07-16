@@ -1,0 +1,11 @@
+# Versoes fixadas (mesmas do ambiente de desenvolvimento, Python 3.9)
+pandas==2.3.2
+numpy==1.24.3
+scikit-learn==1.6.1
+matplotlib==3.9.4
+pyarrow==21.0.0
+
+# Rede neural (apenas para treino_rna.py)
+# Em Apple Silicon, troque a linha abaixo por: tensorflow-macos==2.13.0
+tensorflow==2.13.0
+keras==2.13.1
